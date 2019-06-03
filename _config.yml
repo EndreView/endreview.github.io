@@ -1,22 +1,22 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+name: "End Review for Exploring Lifestyles"
+title: "End Review for Exploring Lifestyles"
+description: "EndReview is a personal blog sharing life stories & shopping tips, best suitable for exploring delicate lifestyles."
+meta_description: "EndReview is a personal blog sharing life stories & shopping tips, best suitable for exploring delicate lifestyles."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'wowthemesnet@gmail.com'
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+email: 'endreviewcom@gmail.com'
+google_analytics: 'UA-141290276-1'
+disqus: 'endreview'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5cf4a11a7feea60012094033&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  rio:
+    name: Rio
+    display_name: Rio
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
