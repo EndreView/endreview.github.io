@@ -7,4 +7,4 @@
 
 Copyright (C) 2019 EndReview.com.
 
-**End Review** is designed by [Endre](https://www.endreview.com).
+**End Review** is powered by [Endre](https://www.endreview.com).
