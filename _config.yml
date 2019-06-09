@@ -10,7 +10,6 @@ baseurl: '/'
 email: 'endreviewcom@gmail.com'
 google_analytics: 'UA-141290276-1'
 disqus: 'endreview'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5cf4a11a7feea60012094033&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
