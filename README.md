@@ -1,6 +1,6 @@
 # "EndReview" - Blog by Endre
 
-[Demo](https://www.endreview.com) &nbsp; | &nbsp; [Subscribe](https://www.endreview.com)
+[Demo](https://www.endreview.com) &nbsp; | &nbsp; [Subscribe](https://www.endreview.com/subscribe)
 
 ## To-dos
 
