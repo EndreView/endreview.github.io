@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My review on Babiators sunglasses"
+date: "2019-06-04"
 author: rio
 categories: [ Children-summer-special ]
 tags: [sunglasses, children, baby]
